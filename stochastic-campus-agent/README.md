@@ -79,8 +79,7 @@ python main.py
 - Optimal path
 - Traffic-aware decision making
 - This shows the optimal path selected by the agent:
-  
-![Output](stochastic-campus-agent/OUTPUT.png)
+![Output](OUTPUT.png)
 
 ---
 
