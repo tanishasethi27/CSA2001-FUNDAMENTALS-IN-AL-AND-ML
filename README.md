@@ -78,6 +78,7 @@ python main.py
 - Grid visualization
 - Optimal path
 - Traffic-aware decision making
+  
   ![Output](OUTPUT.png)
 
 
@@ -91,8 +92,9 @@ python main.py
 ---
 
 ## 📚 References
-- Russell & Norvig – Artificial Intelligence
--NumPy Documentation
+- Russell & Norvig
+- Artificial Intelligence
+- NumPy Documentation
 - Python Docs
 
 ---
