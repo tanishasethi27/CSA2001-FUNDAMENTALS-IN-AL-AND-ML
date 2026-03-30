@@ -78,6 +78,7 @@ python main.py
 - Grid visualization
 - Optimal path
 - Traffic-aware decision making
+- ![Output](OUTPUT.png)
 
 ---
 
